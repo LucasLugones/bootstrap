@@ -45,6 +45,13 @@ li{
       padding-top: 70px;
       padding-right: 100px;
       padding-bottom: 70px;
+      height: 100px;
+      transition: height 2s;
+      background-image: linear-gradient(rgb(0, 255, 0),rgb(155, 156, 75));
+}
+
+.parrafo_2:hover {
+height: 200px;
 }
 
 .lista_ol{
@@ -52,7 +59,7 @@ li{
 }
 
 .main {
-    background-color: lightblue;
+    background-image: linear-gradient(rgb(62, 211, 221), rgb(114, 119, 47));
 }
 
 .redes_sociales{
