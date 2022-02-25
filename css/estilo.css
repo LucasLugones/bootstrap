@@ -3,6 +3,14 @@
 }
 
 
+a{
+    color:white
+}
+
+main{
+    background-color: none;
+}
+
 .menu {
     display:flex;
 }
@@ -51,7 +59,7 @@ li{
 }
 
 .parrafo_2:hover {
-height: 200px;
+height: 300px;
 }
 
 .lista_ol{
@@ -74,7 +82,7 @@ height: 200px;
 }
 
 .contacto {
-    width: 50px;
+    width: 75px;
     display: flex;
     flex-direction: row;
 }
@@ -179,6 +187,7 @@ main {
 
 .parrafo_2 {
     color: rgb(128, 0, 117);
+
 }
 
 .menu {
